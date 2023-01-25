@@ -1,0 +1,9 @@
+.contenedor{
+    width: 40%;
+    height: 300px;
+    border: 2px solid rgb(16, 92, 13);
+    border-radius: 10px;
+    box-shadow: 2px 5px 5px rgb(1, 19, 1);
+    margin:50px auto;
+    overflow: hidden;
+}

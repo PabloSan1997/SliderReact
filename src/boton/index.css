@@ -1,0 +1,25 @@
+.areaBoton{
+    position: fixed;
+    width: 100%;
+    height: 200px;
+    top:300px;
+    display: flex;
+}
+.areaBoton .boton{
+    margin: auto;
+    font-size: 1.8rem;
+    padding: 5px 6px;
+    background: rgb(136, 243, 136);
+    color: rgb(2, 29, 2);
+    border: 3px outset green;
+    cursor: pointer;
+}
+.areaBoton .boton:hover{
+    background:rgb(2, 29, 2) ;
+    color: rgb(136, 243, 136);
+}
+.areaBoton .boton:active{
+    border: 3px inset green;
+    background: rgb(136, 243, 136);
+    color: rgb(2, 29, 2);
+}
