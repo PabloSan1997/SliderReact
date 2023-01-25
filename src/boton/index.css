@@ -4,6 +4,7 @@
     height: 200px;
     top:300px;
     display: flex;
+    z-index: 1;
 }
 .areaBoton .boton{
     margin: auto;
